@@ -7,21 +7,6 @@
 
 
 
-.row {
-
-    background-color: darkturquoise;
-    width: 100%;
-    
-}
-
-
-.container {
-
-    max-width: 1024px;
-    margin: auto;
-    
-}
-
 [class*="col-"] {
     float: left;
     border: 1px solid black;
@@ -90,21 +75,6 @@
 
     width: calc((100% / 12) * 12);
 }
-
-
-
-.nested {
-
-    padding: 5px;
-}
-
-.nested_color {
-
-    background-color: dodgerblue;
-    border: 1px solid white;
-}
-
-
 
 
 
